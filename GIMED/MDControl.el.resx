@@ -118,6 +118,36 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="MD_ContactListRemoveButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>535, 226</value>
+  </data>
+  <data name="MD_ContactListRemoveButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>112, 24</value>
+  </data>
+  <data name="MD_ContactListAddButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>535, 77</value>
+  </data>
+  <data name="MD_ContactListAddButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>112, 24</value>
+  </data>
+  <data name="MD_RemoveEmailButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>123, 24</value>
+  </data>
+  <data name="MD_AddEmailButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>123, 24</value>
+  </data>
+  <data name="groupBox6.Location" type="System.Drawing.Point, System.Drawing">
+    <value>19, 17</value>
+  </data>
+  <data name="groupBox6.Size" type="System.Drawing.Size, System.Drawing">
+    <value>510, 186</value>
+  </data>
+  <data name="groupBox3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>653, 292</value>
+  </data>
+  <data name="MD_GroupBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>624, 104</value>
+  </data>
   <data name="MetadataTab.Size" type="System.Drawing.Size, System.Drawing">
     <value>675, 475</value>
   </data>
@@ -150,33 +180,6 @@
   </data>
   <data name="MD_tabControl.Size" type="System.Drawing.Size, System.Drawing">
     <value>683, 525</value>
-  </data>
-  <data name="groupBox3.Size" type="System.Drawing.Size, System.Drawing">
-    <value>624, 292</value>
-  </data>
-  <data name="MD_ContactListRemoveButton.Location" type="System.Drawing.Point, System.Drawing">
-    <value>519, 224</value>
-  </data>
-  <data name="MD_ContactListRemoveButton.Size" type="System.Drawing.Size, System.Drawing">
-    <value>99, 24</value>
-  </data>
-  <data name="MD_ContactListAddButton.Location" type="System.Drawing.Point, System.Drawing">
-    <value>519, 84</value>
-  </data>
-  <data name="MD_ContactListAddButton.Size" type="System.Drawing.Size, System.Drawing">
-    <value>99, 24</value>
-  </data>
-  <data name="groupBox6.Size" type="System.Drawing.Size, System.Drawing">
-    <value>494, 186</value>
-  </data>
-  <data name="MD_RemoveEmailButton.Size" type="System.Drawing.Size, System.Drawing">
-    <value>96, 24</value>
-  </data>
-  <data name="MD_AddEmailButton.Size" type="System.Drawing.Size, System.Drawing">
-    <value>96, 24</value>
-  </data>
-  <data name="MD_GroupBox.Size" type="System.Drawing.Size, System.Drawing">
-    <value>624, 104</value>
   </data>
   <data name="$this.Size" type="System.Drawing.Size, System.Drawing">
     <value>683, 525</value>
